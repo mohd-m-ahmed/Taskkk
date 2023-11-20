@@ -13,6 +13,7 @@
       "gameName": "Cricket",
       "minPlayers": 11,
       "maxPlayers": 15
+      
     }
   ],
   "dailySchedule": [
